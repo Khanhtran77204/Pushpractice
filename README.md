@@ -1,2 +1,2 @@
 # Pushpractice
-This git repo is for practicing pushing commits 
+This is where I practice pushing commits 
